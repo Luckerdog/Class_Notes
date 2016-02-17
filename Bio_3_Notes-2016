@@ -112,11 +112,11 @@ Chapter 2 - Atoms, Molecules, & Life
 	      NaCL (Table Salt) is made from a toxic gas (CL) & Sodium (Na) an explosive metal.
     B. Bonds
     	1. Atoms are held together by bonds to form compounds
-	2. Atoms bond together with other atoms in order to achieve a full outer electron shell
-	3. Covalent bonds form when 2 or more atoms share electrons in their outer shells
-	4. If the e^- is shared roughly equally between the two atoms, it is non-polar, as each end
-	   of the molecule doesn't have a charge
-	5. If e^-'s are not shared equally, it becomes polar. Each end of the molecule has a slight
+	    2. Atoms bond together with other atoms in order to achieve a full outer electron shell
+	    3. Covalent bonds form when 2 or more atoms share electrons in their outer shells
+	    4. If the e^- is shared roughly equally between the two atoms, it is non-polar, as each end
+	    of the molecule doesn't have a charge
+	   5. If e^-'s are not shared equally, it becomes polar. Each end of the molecule has a slight
 	   +/- charge to it
 	6. Ionic
 	    - Ionic bonds form when electrons are transferred from one atom to another. Atoms that have
@@ -422,3 +422,244 @@ Chapter 8 - Harvesting Energy: Glycolysis & Cellular Respiration
 	3. Prior to refrigeration, these processes allowed food to be preserved for long
 	   period of time. Prior to modern sanitation, alcoholic beverages were often the
 	   only safe fluid to drink, as the water was often contaminated with pathogens.
+
+Chapter 9 - The continuity of Life: Cellular Respiration
+
+1. Cell Division Basics
+    A. Why do cells divide?
+	1. Cells reproduce by cell division, which gives rise to 2 daughter cells
+	   which are identical to the original cell
+	2. Each cell contains the genetic information, found on one or more chromosomes.
+ 	3. Deoxyribonucleic acid (DNA) is the material that holds the genetic info.
+	   DNA is composed of repeating units, called nucleotides, which are made up of sugar
+	   called deoxyribose, phosphate groups and one of four bases. The four bases are
+	   adenine, guanine, cytosine and thymine.
+	4. The units of inheritance are called genes, which are sections of DNA
+    B. Two Types of Reproduction
+	1. Simple organisms, like bacteria, simply split in two in order to reproduce. This
+	   process is called binary fission and makes up what is known as the prokaryotic cell cycle.
+  	   Organisms produced by this method are generally all clones of each other, with no genetic diversity.
+	2. Most organisms, like humans, utilize the more complex process of sexual reproduction, which produces
+	   gametes (eggs and sperm). This process produces individuals that are genetically unique from each other,
+	   and is called the eukaryotic cell cycle.
+
+2. The Eukaryotic Cell Cycle
+    A. Organization of Chromosomes
+	1. DNA is found in the nucleus of eukaryotic organisms.
+	2. Humans have 46 chromosomes (23 pairs). One of each pair
+	   comes from each parent. The chromosomes are numbered 1-23
+	   and each pair are called homologous chromosomes (one of each pair comes from each parent)
+	3. Cells that have all 23 pairs, which are all cells except gametes, are called diploids, also written as 2n.
+	   Gamete cells have half the number of chromosomes are called haploid, also written as n.
+	4. The chromosomes themselves are made up of two chromatids, which are held together in the
+	   center by a structure called a centromere.
+   B. Steps of the Eukaryotic Cell Cycle
+	1. The eukaryotic cell cycle is divided into two major phases; interphase and cell division.
+	2. During interphase, the cell acquires nutrients from the environment, grows and duplicates
+	   its chromosomes. Interphase is divided into three sections.
+		A) During G1, cells grow and differentiate (turn into whatever kind of cell they are going to become)
+		B) During S, the cell duplicates its chromosomes.
+		C) During G2, cell growth continues and the cell prepares to divide.
+	3. After all these steps are completed, which take about a day in human cells, the cell prepares to divide its nucleus
+	   in a process called mitosis.
+    C. Mitosis
+	1. Mitosis is a series of steps, divides the nucleus, and as a result produces cells that are 
+	   identical to the original cell. As an example, if your skin is damaged and must be repaired
+	   your body will produce new identical cells through the process of mitosis.
+	2. Mitosis is divided into several phases.
+		A) During prophase, the duplicated chromosomes condense from what is called chromatin.
+		   Chromatin is what the genetic material is called before mitosis occurs. It just appears
+	  	   as a mass of thready material. Also during this phase the spindle microtubules appear.
+		   These are structures that will literally help pull apart the chromosomes.
+		B) During metaphase, each chromosomes lines up along the equator of the cell.
+		C) During anaphase, the centromere holding each chromosome dissolves, allowing
+		   sister chromatids to separate and move toward opposite sides of the cell.
+		D) During telophase, when the chromatids reach the sides of the cell, the spindle
+		   microtubules disintegrate and a nuclear envelope forms around the chromosomes.
+		- A Mnemonic for this process is called
+			Pizza Makes A Triangle
+	3. The summary of mitosis is that starting with one original cell, two identical daughter
+	   cells are produced. These cells are genetically identical to the starting cell and
+	   to each other, and are diploid(2n).
+    D. Meiosis
+	1. The key to sexual reproduction in eukaryotes is meiosis, the production of haploid cells
+	   with unpaired chromosomes from diploid parent cells with paired chromosomes.
+	2. If it wasn't for meiosis, the number of chromosomes in the nuclei of each subsequent
+	   generation would double. That is, each time a sperm and egg united at fertilization
+	   the number of chromosomes would double. Meiosis prevents this by producing gametes that
+	   are haploid, so that upon fertilization a new individual that is diploid is produced. 
+	3. Meiosis has some steps in common with mitosis, and some that are different. Meiosis is
+	   accomplished in two rounds of cell division. They have the same names as the steps in
+	   mitosis, but are distinguished by the Roman numerals I and II.
+	4. The steps of meiosis are:
+		A) During prophase I, the homologous chromosomes pair off with each other, rather
+		   than separating. During this crucial step, the homologous pairs randomly exchange
+		   genetic information with each other in a process called crossing over. It's this
+		   process that helps to create the genetic diversity among individuals that makes us
+		   all unique from each other.
+		B) During metaphase I, the chromosome pairs line up at the equator of the cell, just
+		   like during mitosis.
+		C) During anaphase I, one member of each pair of chromosomes moves to the opposite side
+		   of the cell (note that the centromere does not dissolve)
+		D) During telophase I, the cell splits in two, just like it does in mitosis. 
+		   (A.K.A cytokinesis)
+		E) The steps of meiosis II are basically the same as they are during mitosis.
+		   During metaphase II the chromosomes line up at the equator.
+		   During anaphase II the centromeres dissolve and one of each of the chromatids goes
+		   to each side of the cell.
+		   During telophase II and cytokinesis, the cell splits in two.
+		F) The net result of meiosis is that from an original, diploid cell, four haploid cells
+		   are produced.
+
+Chapter 10 - Patterns of Inheritance
+
+1. Vocab
+    A. Inheritance: is the passing along of hereditary traits from one generation to the next
+    B. Genetics: is the study of inheritance
+    C. The genotype: is an organism's genetic makeup
+    D. The phenotype: is an organism's physical appearance. It is possible that two organisms
+       can appear the same (same phenotype) but have different genotypes.
+    E. Alleles: are alternative forms of a gene that code for the same trait. Alleles can also
+       be known as variants. As an example, the alleles for hair color in humans are brown, black,
+       red, blond, etc.
+    F. A mutation: is a permanent change in an allele that produces a variant of the same trait.
+    G. A dominant allele: is one that dominates or masks the presence of another allele. In other
+       words, it is the trait seen most often in a population. For example, the dominant alleles
+       for hair and eye color in humans are brown. Dominant alleles are always represented by
+       capital letters when writing them in genetic shorthand. For example, if tallness was a
+       dominant allele, it would be written as a "T"
+    H. A recessive allele is one that is masked by another allele; in other words, the variant of a trait
+       that is seen least often in a population. A recessive allele for eye color in humans is blue. In
+       genetic shorthand, recessive alleles are represented by the lower case letter of dominant trait.
+       In the example above for tallness (T), shortness would be represented by "t".
+    I. An individual who is homozygous for a trait has inherited the same gene for that trait on each
+       homologous chromosome. In other words, that individual has gotten the same allele for a trait
+       from each parent. As an example, if an individual has inherited the dominant trait for tallness
+       from each parent, that individual would be called homozygous dominant for that trait, and the
+       genetic shorthand would be written as "TT". These individuals are known as true breeders, since
+       they aren't hiding any recessive genes. Note that an individual could also be homozygous recessive,
+       having gotten a copy of the recessive gene from each parent. This individual would be written as "tt".
+    J. If an individual has inherited a different copy of the gene from each parent, they are called
+       heterozygous. The shorthand would be written as "Tt". Note that this individual would still be tall
+       because the tallness is dominant and hides the other copy of the recessive gene. These individuals
+       are called carries, since they are "carrying" on copy of the recessive gene.
+    K. Incomplete dominance is when neither member of a pair of alleles dominates over the other and
+       the heterozygote is a mixture of the two traits. AS an example, snapdragon flowers can be either
+       red or white when they are homozygous. The heterozygote produces pink flowers.
+		
+		RR (red flowers) crossed with rr (white flowers) = Rr (pink flowers)
+
+    L. The sex chromosomes (X & Y) are responsible for the transmission of several non-sexual traits.
+       One of these is red-green color blindness, which is passed along on the X chromosome from the mother.
+       These conditions are called sex-linked traits.
+    M. Co-dominance occurs when both alleles of a pair are fully expressed in the heterozygote. An example
+       of this is the ABO blood typing system. There are people with Type A blood (Type A proteins on their
+       blood cells), people with Type B blood (Type B proteins) and people with Type AB blood (both A & B proteins).
+       Type O blood has neither A nor B proteins.
+    N. The independent inheritance of two or more traits is called the law of independent assortment.
+       This means that genes for different traits, like those that determine seed color and shape in 
+       plants, can be inherited independently of each other and not influence each other during the
+       formation of gametes.
+
+2. Punnett Squares
+    1. Punnett squares are a method to determine the statistical outcomes of various traits when two
+       individuals are bred together.
+    2. A monohybrid cross utilizes a four-square grid to examine the outcomes of one trait at a time.
+    3. A dihybrid cross utilizes a 16-square grid to examine the outcomes of two traits at a time.
+
+3. Genetic Disorders
+    1. Turner syndrome affects 1 in 3,000 females, who have only one X chromosome
+       and are infertile.  
+    2. Trisomy affects 1 in 5,000 females, who have 3X chromosomes, are usually fertile
+       but may have below average intelligence.
+    3. Klinefelter syndrome affects 1 in 1,000 males, who have an extra X chromosome
+       (XXY). These individuals are usually infertile and may have mixed sexual characteristics.
+    4. Jacob syndrome affects 1 in 1,000 males who have an extra Y chromosome (XYY). These individuals
+       have elevated testosterone, severe acne, are tall and have decreased intelligence and increased
+       aggresiveness.
+    5. Trisomy 21 (Down Syndrome) individuals have an extra copy of chromosome 21. These individuals
+       have varying levels of developmental disability, from mild to severe. It occurs in about 1 out
+       of 700 births, with greatly increased risk for mothers over 40 yeards old.
+       (women--how old are your eggs?)
+
+Chapter 11 - DNA: The Molecule of Heredity
+
+1. DNA Structure
+    A. DNA's Structure and Components
+	1. DNA (deoxyribonucleic acid) forms the inherited material inside each cell.
+	   Each cell contains the information required to reproduce itself.
+	2. Genes, which are the units of inherited traits, are made of segments of DNA.
+	   Humans have about 20,000 genes to code for all of the characteristics required to
+	   make a human a human These genes contain about 3 billion base pairs (AT, CG).
+	   It is the specific order of these base pairs that produces our human traits. The
+	   discovery of this information was the result of the Human Genome Project, a lengthy
+	   expensive process that was the result of a multi-national effort completed in 2003.
+	   You can now have your genes sequenced for about $1,000 or so (a company called
+	   23 and me provides this service). The speed and relative cheapness of this was unheard
+	   of a few years ago. People use this to determine whether they carry genes for diseases
+	   like cancer, for example.
+	3. Genes control protein synthesis. Genes contain the "recipes"; that is, the instructions
+	   to produce the proteins required for us to live.
+	4. The structure of DNA was discovered in the 1950's by two men -- James Watson and
+	   Francis Crick. They received the Nobel Prize for this discovery.
+		A) DNA is a chain of repeating units called nucleotides.
+		B) Each nucleotide consists of three parts:
+		    1) A compound called a base. There are 4 bases in total:
+			Adenine  (A)
+			Thymine  (T)
+			Cytosine (C)
+			Guanine  (G)
+		    2) A sugar called deoxyribose
+		    3) A phosphate group (PO4-)
+		C) The DNA molecule looks like a twisted ladder, and is called a double helix.
+		   The sugar and phosphate molecules form the sides (rails) of the ladder. While
+		   the bases form the steps (rungs).
+		D) Each rung is made of 2 bases bonded together. They are pair together in a certain
+		   way: A with T and C with G; never any other way.
+	5. DNA is like a language and A,T,C & G, are the letters. It is merely the order of the letters
+	   that determines the genes. Nothing else varies -- the deoxyribose sugar and the phospahte groups
+	   are always the same. The order of the letters determine each gene, and each person's genes have
+	   a uniqueness to them that makes us each different (unless you have an identical twin). Note however
+	   that the amount of genetic variability from one person to the next is only a few percent -- that's
+	   all it takes to make us each unique.
+
+    B. DNA Replication (copying)
+	1. Before cells can divide, the cell must make an exact copy of the DNA, so that each new
+	   cell can be identical to the original one.
+	2. The ingredients involved are the original (parental) DNA strands and the bases (A,T,C & G)
+	3. Several enzymes direct the process. DNA helicases break apart the DNA molecule by "unzipping"
+	   the weak hydrogen bonds between each base in the DNA rungs. DNA polymerases move along each
+	   strand of parental DNA, matching un-complementary bases to the bases of the parental strand.
+	   Once finished, DNA ligases reattach everything back together again.
+	4. This process is called semi-conservative, since each new DNA molecule is made of one original
+	   strand and one newly created strand.
+
+2. Mutations
+    A. Definitions
+	1. Mutations are changes in the base sequence of DNA. Mutations may be harmful; if they are really
+	   damaging a cell or organism inheriting such a mutation may quickly die. Some mutations have no
+	   effect; in rare instances they may be beneficial.
+	2. They may occur as a result of mistakes during DNA replication, or from environmental factors
+	   like chemicals or radiation.
+	3. Even with all this, errors in DNA are quite rate, with completed DNA strands having only one
+	   mistake per 100 million to one billion base pairs. There are DNA repair enzymes that "proofread"
+	   each daughter strand both during and after synthesis and repair any mistakes found. 
+
+    B. Types of Mutations
+	1. Base substitution occurs when incorrect bases are incorporated into the growing
+ 	   DNA double helix.
+	2. Insertion mutations occur when one or more extra bases are inserted when DNA is replicating.
+	3. Deletion mutations occur when one or more bases are deleted when DNA is replicating.
+    
+    C. Effects
+	1. Deletions or insertions may have catastrophic effects due to the fact that all genetic
+	   information that follows downstream from the mutation will be affected.
+	2. As an example, consider the following string literal "The Dog Saw The Cat"
+	    	Deleting every 'E' and reshuffling the remaining letters produces gibberish:
+				THD OGS AWT HCA T
+	3. Base substitutions may or may not have an effect. Most of the amino acids can be
+	   produced by several combination of bases, so an occasional error may end up producing
+	   the desired amino acid anyway. For example, there are five possible combinations of
+	   bases that will produce the amino acid leucine. Most of the 20 amino acids have this
+	   type of redundancy so that mistakes are less likely to result in the amino acid not
+	   being reproduced.
